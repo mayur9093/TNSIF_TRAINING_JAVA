@@ -1,4 +1,4 @@
-package mayur;
+package TNSIFJAVA;
 
 public class variable {
     int num = 10;
@@ -9,6 +9,7 @@ public class variable {
         variable v = new variable();
         System.out.println(v.num);
         System.out.println(name);
+        System.out.println(variable.name);
         
     }
 }
