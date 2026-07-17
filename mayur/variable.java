@@ -1,7 +1,14 @@
 package mayur;
 
 public class variable {
+    int num = 10;
+    static String name = "mayur";
     public static void main(String[] args) {
-        System.out.println("ayur");
+        int num = 20;
+        System.out.println(num);
+        variable v = new variable();
+        System.out.println(v.num);
+        System.out.println(name);
+        
     }
 }
