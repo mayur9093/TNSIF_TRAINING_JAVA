@@ -1,19 +1,23 @@
 package TNSIFJAVA.src.org.tnsif.acc.c2tc.javabasics;
 
 public class VariableDemo {
-    int price = 10;
+	
+	int price=10;//instance var
+	
+	void print() //method
+	{
+		String msg="hello";//local var
+		System.out.println(msg);
+	}
+	
+	static String message="Hello Students";//static
 
-    void display(){
-        String message = "hello";
-        System.out.println(message);
+	public static void main(String[] args) {
+		VariableDemo obj=new VariableDemo();
+		System.out.println(obj.price);
+		obj.print();
+		System.out.println(message);
 
-    }
-    static String msg = "hello students";
-    public static void main(String[] args) {
-        VariableDemo vr =  new VariableDemo();
-        System.out.println(msg);
-        System.out.println(vr.price);
-        vr.display();
+	}
 
-    }
 }
