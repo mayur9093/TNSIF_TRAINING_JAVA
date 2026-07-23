@@ -33,5 +33,5 @@ public class Encapsulation {
         h.setAge(12);
         h.setName("harsh");
         h.display();
-    }
+    }  
 }
