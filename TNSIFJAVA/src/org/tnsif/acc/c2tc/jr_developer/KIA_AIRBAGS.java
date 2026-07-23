@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.javabasics.jr_developer;
+package TNSIFJAVA.src.org.tnsif.acc.c2tc.jr_developer;
 
 public class KIA_AIRBAGS {
     public void display(){

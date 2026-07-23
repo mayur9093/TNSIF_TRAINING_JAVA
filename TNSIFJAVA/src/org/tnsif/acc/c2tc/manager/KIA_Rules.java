@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.javabasics.manager;
+package TNSIFJAVA.src.org.tnsif.acc.c2tc.manager;
 
 public class KIA_Rules {
     public void display(){
