@@ -1,6 +1,5 @@
 package TNSIFJAVA.src.org.tnsif.acc.c2tc.opps;
 
-
  abstract class  HeheshDemo{
     void calling(){
         System.out.println("phone is having calling feature");
@@ -8,7 +7,7 @@ package TNSIFJAVA.src.org.tnsif.acc.c2tc.opps;
     abstract void AIintegration();
     abstract void Satellitecomm();
     abstract void Healtmonitoring();
-    
+     
 }
 
  abstract class Suresh extends HeheshDemo {
