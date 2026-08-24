@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ComparableDemo",
+            "request": "launch",
+            "mainClass": "TNSIFJAVA.src.org.tnsif.acc.c2tc.Collections.ComparableDemo",
+            "projectName": "TNIIFJAVA_bd127078"
+        },
+        {
+            "type": "java",
+            "name": "StackDemo2",
+            "request": "launch",
+            "mainClass": "TNSIFJAVA.src.org.tnsif.acc.c2tc.Collections.StackDemo2",
+            "projectName": "TNIIFJAVA_bd127078"
+        },
+        {
+            "type": "java",
+            "name": "StackDemo",
+            "request": "launch",
+            "mainClass": "TNSIFJAVA.src.org.tnsif.acc.c2tc.Collections.StackDemo",
+            "projectName": "TNIIFJAVA_bd127078"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
