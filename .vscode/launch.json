@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AllIntermediateOps",
+            "request": "launch",
+            "mainClass": "TNSIFJAVA.src.org.tnsif.acc.c2tc.StreamApi.AllIntermediateOps",
+            "projectName": "TNIIFJAVA_bd127078"
+        },
+        {
+            "type": "java",
             "name": "ComparableDemo",
             "request": "launch",
             "mainClass": "TNSIFJAVA.src.org.tnsif.acc.c2tc.Collections.ComparableDemo",
