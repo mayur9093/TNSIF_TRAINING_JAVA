@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.opps;
+package org.tnsif.acc.c2tc.opps;
 
 
  class human {

@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.jr_developer;
+package org.tnsif.acc.c2tc.jr_developer;
 
 public class KIA_Speedlimit {
     public void display(){

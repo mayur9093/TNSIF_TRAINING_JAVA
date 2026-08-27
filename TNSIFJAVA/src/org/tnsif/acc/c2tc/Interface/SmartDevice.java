@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.Interface;
+package org.tnsif.acc.c2tc.Interface;
 
  interface SmartDeviceDemo {
     void calling();

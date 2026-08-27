@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.Scanner;
+package org.tnsif.acc.c2tc.Scanner;
 import java.util.Scanner;
 public class Advance_Scanner {
 	public static void main(String[] args) {

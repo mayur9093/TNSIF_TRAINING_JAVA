@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FoodOrder",
+            "request": "launch",
+            "mainClass": "org.tnsif.acc.c2tc.typecasting.FoodOrder",
+            "projectName": "TNIIFJAVA_bd127078"
+        },
+        {
+            "type": "java",
+            "name": "scannerDemo2",
+            "request": "launch",
+            "mainClass": "TNSIFJAVA.src.org.tnsif.acc.c2tc.Scanner.scannerDemo2",
+            "projectName": "TNIIFJAVA_bd127078"
+        },
+        {
+            "type": "java",
             "name": "AllIntermediateOps",
             "request": "launch",
             "mainClass": "TNSIFJAVA.src.org.tnsif.acc.c2tc.StreamApi.AllIntermediateOps",

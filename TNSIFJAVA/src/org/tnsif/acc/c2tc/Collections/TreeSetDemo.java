@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.Collections;
+package org.tnsif.acc.c2tc.Collections;
 
 import java.util.TreeSet;
 

@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.Scanner;
+package org.tnsif.acc.c2tc.Scanner;
 
 import java.io.FileReader;
 import java.io.BufferedReader;

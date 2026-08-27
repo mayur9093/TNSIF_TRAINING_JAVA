@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.opps;
+package org.tnsif.acc.c2tc.opps;
 public class constructor_overloading {
     int a;
     int b;
@@ -14,9 +14,9 @@ public class constructor_overloading {
         System.out.println(a+b);
     }
     public static void main(String[] args) {
-        constructor_overloading obj = new constructor_overloading();
-        constructor_overloading obj1 = new constructor_overloading(10);
-       constructor_overloading obj2 = new constructor_overloading(100, 200);
+        new constructor_overloading();
+        new constructor_overloading(10);
+        new constructor_overloading(100, 200);
        
         
     }

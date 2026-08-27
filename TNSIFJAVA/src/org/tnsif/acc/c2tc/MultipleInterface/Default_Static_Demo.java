@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.MultipleInterface;
+package org.tnsif.acc.c2tc.MultipleInterface;
 
 interface Vehicle
 {

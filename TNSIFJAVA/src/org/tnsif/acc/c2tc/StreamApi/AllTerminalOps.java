@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.StreamApi;
+package org.tnsif.acc.c2tc.StreamApi;
 
 import java.util.List;
 import java.util.Optional;

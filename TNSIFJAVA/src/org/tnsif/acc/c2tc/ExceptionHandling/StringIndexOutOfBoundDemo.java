@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.ExceptionHandling;
+package org.tnsif.acc.c2tc.ExceptionHandling;
 
 
 public class StringIndexOutOfBoundDemo {

@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.WrapperClass;
+package org.tnsif.acc.c2tc.WrapperClass;
 
 public class WrapperClassDemo {
     public static void main(String[] args) {

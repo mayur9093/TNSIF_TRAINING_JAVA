@@ -1,4 +1,4 @@
-package TNSIFJAVA.src.org.tnsif.acc.c2tc.javabasics;
+package org.tnsif.acc.c2tc.javabasics;
 
 public class VariableDemo {
 	
