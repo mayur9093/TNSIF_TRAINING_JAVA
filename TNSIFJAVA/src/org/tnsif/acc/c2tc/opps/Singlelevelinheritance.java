@@ -1,7 +1,5 @@
 package org.tnsif.acc.c2tc.opps;
 
-
-
 class course{
     String name;
     void display(){

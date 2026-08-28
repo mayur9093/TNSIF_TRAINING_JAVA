@@ -1,6 +1,6 @@
 package org.tnsif.acc.c2tc.opps;
 
- abstract class  HeheshDemo{
+ abstract class  MaheshDemo{
     void calling(){
         System.out.println("phone is having calling feature");
     }
@@ -10,7 +10,7 @@ package org.tnsif.acc.c2tc.opps;
      
 }
 
- abstract class Suresh extends HeheshDemo {
+ abstract class Suresh extends MaheshDemo {
     @Override
     void AIintegration(){
         System.out.println("Ai is interated");
