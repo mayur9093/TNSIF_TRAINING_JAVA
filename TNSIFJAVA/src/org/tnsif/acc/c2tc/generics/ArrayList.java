@@ -8,15 +8,12 @@ public class ArrayList {
 
     public static void main(String[] args) {
 
-        List list = new java.util.ArrayList();
+        List<String> list = new java.util.ArrayList<>();
 
         list.add("abc");
-        list.add(new Integer(5));
+        list.add("def");
 
-        for (Object obj : list) {
-
-            // Type casting leads to ClassCastException at runtime
-            String str = (String) obj;
+        for (String str : list) {
 
             System.out.println(str);
         }
